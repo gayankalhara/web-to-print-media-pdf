@@ -1,0 +1,4 @@
+.idea
+.venv
+*.pdf
+generated_pdfs
